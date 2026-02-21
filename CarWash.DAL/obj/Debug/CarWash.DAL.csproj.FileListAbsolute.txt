@@ -1,0 +1,7 @@
+E:\Desktop Projects\CarWash.DAL\bin\Debug\CarWash.DAL.dll.config
+E:\Desktop Projects\CarWash.DAL\bin\Debug\CarWash.DAL.dll
+E:\Desktop Projects\CarWash.DAL\bin\Debug\CarWash.DAL.pdb
+E:\Desktop Projects\CarWash.DAL\obj\Debug\CarWash.DAL.csproj.AssemblyReference.cache
+E:\Desktop Projects\CarWash.DAL\obj\Debug\CarWash.DAL.csproj.CoreCompileInputs.cache
+E:\Desktop Projects\CarWash.DAL\obj\Debug\CarWash.DAL.dll
+E:\Desktop Projects\CarWash.DAL\obj\Debug\CarWash.DAL.pdb
