@@ -1,0 +1,10 @@
+E:\Desktop Projects\CarWash.BL\bin\Release\CarWash.BL.dll
+E:\Desktop Projects\CarWash.BL\bin\Release\CarWash.BL.pdb
+E:\Desktop Projects\CarWash.BL\bin\Release\CarWash.DAL.dll
+E:\Desktop Projects\CarWash.BL\bin\Release\CarWash.DAL.pdb
+E:\Desktop Projects\CarWash.BL\bin\Release\CarWash.DAL.dll.config
+E:\Desktop Projects\CarWash.BL\obj\Release\CarWash.BL.csproj.AssemblyReference.cache
+E:\Desktop Projects\CarWash.BL\obj\Release\CarWash.BL.csproj.CoreCompileInputs.cache
+E:\Desktop Projects\CarWash.BL\obj\Release\CarWash.BL.csproj.Up2Date
+E:\Desktop Projects\CarWash.BL\obj\Release\CarWash.BL.dll
+E:\Desktop Projects\CarWash.BL\obj\Release\CarWash.BL.pdb

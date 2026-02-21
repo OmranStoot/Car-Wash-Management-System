@@ -1,0 +1,20 @@
+E:\Desktop Projects\CarWash.BL\bin\Debug\CarWash.BL.dll
+E:\Desktop Projects\CarWash.BL\bin\Debug\CarWash.BL.pdb
+E:\Desktop Projects\CarWash.BL\bin\Debug\CarWash.DAL.dll
+E:\Desktop Projects\CarWash.BL\bin\Debug\CarWash.DAL.pdb
+E:\Desktop Projects\CarWash.BL\bin\Debug\CarWash.DAL.dll.config
+E:\Desktop Projects\CarWash.BL\obj\Debug\CarWash.BL.csproj.AssemblyReference.cache
+E:\Desktop Projects\CarWash.BL\obj\Debug\CarWash.BL.csproj.CoreCompileInputs.cache
+E:\Desktop Projects\CarWash.BL\obj\Debug\CarWash.BL.csproj.Up2Date
+E:\Desktop Projects\CarWash.BL\obj\Debug\CarWash.BL.dll
+E:\Desktop Projects\CarWash.BL\obj\Debug\CarWash.BL.pdb
+E:\Desktop Projects\Car Wash Management System\CarWash.BL\bin\Debug\CarWash.BL.dll
+E:\Desktop Projects\Car Wash Management System\CarWash.BL\bin\Debug\CarWash.BL.pdb
+E:\Desktop Projects\Car Wash Management System\CarWash.BL\bin\Debug\CarWash.DAL.dll
+E:\Desktop Projects\Car Wash Management System\CarWash.BL\bin\Debug\CarWash.DAL.pdb
+E:\Desktop Projects\Car Wash Management System\CarWash.BL\bin\Debug\CarWash.DAL.dll.config
+E:\Desktop Projects\Car Wash Management System\CarWash.BL\obj\Debug\CarWash.BL.csproj.AssemblyReference.cache
+E:\Desktop Projects\Car Wash Management System\CarWash.BL\obj\Debug\CarWash.BL.csproj.CoreCompileInputs.cache
+E:\Desktop Projects\Car Wash Management System\CarWash.BL\obj\Debug\CarWash.BL.csproj.Up2Date
+E:\Desktop Projects\Car Wash Management System\CarWash.BL\obj\Debug\CarWash.BL.dll
+E:\Desktop Projects\Car Wash Management System\CarWash.BL\obj\Debug\CarWash.BL.pdb
